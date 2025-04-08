@@ -1,3 +1,11 @@
+
+![Student_Registration_form](https://github.com/user-attachments/assets/9d8c6ccc-a1ae-486d-8c3e-868b9912c5fd)
+
+![Registration_form](https://github.com/user-attachments/assets/b6cdc848-e31b-4b88-96b4-bd5250c0ebd3)
+
+![View_User_Details](https://github.com/user-attachments/assets/d6fedbb8-e756-4737-bf92-608689aea977)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
